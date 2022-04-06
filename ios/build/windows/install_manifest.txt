@@ -1,0 +1,9 @@
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

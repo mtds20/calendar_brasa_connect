@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mateu\OneDrive\Área de Trabalho\Flutter\calendar_brasa_connect\build\windows\CMakeFiles\ca37ab3397790d5a2aa8bc86794573e9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{212AE1DD-D6DE-3617-8339-AC422F1234DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

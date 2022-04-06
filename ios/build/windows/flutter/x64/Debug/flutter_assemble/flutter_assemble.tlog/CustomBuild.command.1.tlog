@@ -1,0 +1,28 @@
+^C:\USERS\MATEU\ONEDRIVE\ÁREA DE TRABALHO\FLUTTER\CALENDAR_BRASA_CONNECT\BUILD\WINDOWS\CMAKEFILES\0AAF70DCB73301EE716BD239D51E319B\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\mateu\Documents\flutter "PROJECT_DIR=C:\Users\mateu\OneDrive\Área de Trabalho\Flutter\calendar_brasa_connect" FLUTTER_ROOT=C:\Users\mateu\Documents\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\mateu\OneDrive\Área de Trabalho\Flutter\calendar_brasa_connect\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\mateu\OneDrive\Área de Trabalho\Flutter\calendar_brasa_connect" "FLUTTER_TARGET=C:\Users\mateu\OneDrive\Área de Trabalho\Flutter\calendar_brasa_connect\lib\main.dart" DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\mateu\OneDrive\Área de Trabalho\Flutter\calendar_brasa_connect\.dart_tool\package_config.json" C:/Users/mateu/Documents/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MATEU\ONEDRIVE\ÁREA DE TRABALHO\FLUTTER\CALENDAR_BRASA_CONNECT\BUILD\WINDOWS\CMAKEFILES\58EB3353CEDD87A3564A91ACAC2BF1F2\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MATEU\ONEDRIVE\ÁREA DE TRABALHO\FLUTTER\CALENDAR_BRASA_CONNECT\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/windows" "-BC:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows" --check-stamp-file "C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

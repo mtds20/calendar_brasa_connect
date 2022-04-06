@@ -1,0 +1,10 @@
+^C:\USERS\MATEU\ONEDRIVE\ÁREA DE TRABALHO\FLUTTER\CALENDAR_BRASA_CONNECT\BUILD\WINDOWS\CMAKEFILES\27417C0D7EAD8062D93CA66109D36BC9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/windows" "-BC:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/mateu/OneDrive/Área de Trabalho/Flutter/calendar_brasa_connect/build/windows/calendar_brasa_connect.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
